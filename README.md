@@ -122,7 +122,3 @@ Core charts produced:
 - Supporting notebook(s): `NHS_appointment ML.ipynb`, `NHS_Appointments.ipynb`
 - Core dataset: `nhs_cleaned_with_features.csv`
 
----
-
-If useful for your portfolio, you can pair this README with a separate model-focused README:
-`README_ML.md`.
