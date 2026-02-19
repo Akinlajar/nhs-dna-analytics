@@ -87,7 +87,6 @@ Core charts produced:
 - HCP type vs appointment mode heatmap
 - Financial loss by appointment mode
 
-If these images are in the same folder, they can be displayed in GitHub:
 
 ![DNA by Appointment Mode](./dna_rate_by_appointment_mode_bar.png)
 ![DNA Over Time](./step4_line_dna_rate_over_time.png)
